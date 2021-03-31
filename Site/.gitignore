@@ -1,0 +1,10 @@
+# ignor /tmp/
+/tmp/
+
+#  file _old, _backup
+*.*_old
+*.*_backup
+
+# file Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store
